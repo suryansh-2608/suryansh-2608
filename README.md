@@ -27,7 +27,6 @@
 ## 📊 My Github Stats
 
   <br/>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryansh-2608&show_icons=true&locale=en" alt="suryansh-2608" /></p>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryansh-2608&show_icons=true&locale=en&layout=compact" alt="suryansh-2608" /></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
