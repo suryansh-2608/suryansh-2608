@@ -5,27 +5,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **suryanshbhardwaj47@gmail.com**
 
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-</p>
-
-
-<br/>
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-2608&" alt="suryansh-2608" />
-</p>
 
 ## 📊 My Github Stats
-
+  <br/>
+    <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-2608&" alt="suryansh-2608" />
+    </p>
+  <br/>
   <br/>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryansh-2608&show_icons=true&locale=en&layout=compact" alt="suryansh-2608" /></p>
   <br/>
