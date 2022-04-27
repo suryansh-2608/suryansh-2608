@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ and Data Structures **
 
 - 📫 How to reach me **suryanshbhardwaj47@gmail.com**
 
